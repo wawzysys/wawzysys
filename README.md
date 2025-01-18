@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![asdaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=wawzysys&show_icons=true&theme=radical)
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 -->
